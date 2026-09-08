@@ -1,6 +1,8 @@
 # COSMOWEAVE
 
-**Causal-Tuning World Model and Life-Futures Simulator**
+Created by Yucong Duan (段玉聪).
+
+Causal-Tuning World Model and Life-Futures Simulator
 
 COSMOWEAVE is an offline research system for studying a core hypothesis:
 worlds are not defined by raw information volume, but by the selective alignment
@@ -13,13 +15,13 @@ form of reliable global routing, not as a language claim.
 
 The project contains three linked experiments:
 
-1. **Informational tuning field** - compares awake-like directional routing with
+1. Informational tuning field - compares awake-like directional routing with
    anesthesia-like diffuse information flow. The diffuse condition can carry more total
    transfer entropy while having much lower directional tuning and reliability.
-2. **Adaptive world model** - predicts a world whose states and transition rules both
+2. Adaptive world model - predicts a world whose states and transition rules both
    change. Variants compare a fixed model, a feature-growing model, and a rule-rewriting
    model.
-3. **Life futures simulator** - runs eight architectures across six environmental regimes
+3. Life futures simulator - runs eight architectures across six environmental regimes
    and identifies synthetic attractors such as noise saturation, locked optimization,
    self-rewriting hybrid life, distributed collective life, and cosmic channel engineering.
 
@@ -121,7 +123,7 @@ for the major output files. `ledger.json` contains a hash-chained experiment his
 
 ## 13. Evidence boundaries
 
-The system demonstrates mechanisms in synthetic worlds. It does **not** prove:
+The system demonstrates mechanisms in synthetic worlds. It does not prove:
 
 - that informational tuning is sufficient for consciousness;
 - that the universe is literally an information field;
